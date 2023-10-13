@@ -1,1 +1,1 @@
-# This is my Data Structure & Algorithms Folder Repo using C Language.
+# This is my Data Structure & Algorithms Repository using C Language.
